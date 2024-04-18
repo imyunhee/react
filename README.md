@@ -1,2 +1,2 @@
 # React
-## Studying React
+Studying React
