@@ -1,1 +1,2 @@
-# react
+# React
+## Studying React
