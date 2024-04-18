@@ -1,5 +1,4 @@
 # React
-Studying React
 ---------------------------------------
 ### Quick Start
 First time to study react.
